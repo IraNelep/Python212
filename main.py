@@ -2812,6 +2812,7 @@ from random import randint
 # git checkout -b new - создать ветку и сразу перейти на нее
 # git merge readme - обьединяем две ветки
 
+print("Hello, world!")
 
 
 
