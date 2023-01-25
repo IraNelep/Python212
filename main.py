@@ -2793,26 +2793,7 @@ from random import randint
 # print(*(chr(x) for x in range(a, b + 1)) if a < b else (chr(x) for x in range(b, a + 1))) # тернарное выражение
 
 
-# GIT программа
-# git --version - узнать версию
-# git --help - помощь
-# git init создание репозитория (только один раз исп)
-# git status - состояние репозитория
-# git add -A (--all - все файлы, которые находятся в папке и подпапке) - добавляет в отслеживаемые файлы еще один файл
-#     main.py - добавит только main.py
-#     . - добавит все файлы из текущей директории
-# git config --global user.name 'IraNelep' - зарегестрировать имя (один раз )
-# git config --global user,email 'iranelep@gmail.com' - email
-# git commit -m "first commit" - контрольная точка
-#  .gitignore - создать файл для файлов игноров
-# git branch - смотреть на какой мы ветке
-# git branch - смотреть на какой мы ветке
-# git branch -D test - удалить ветку
-# git checkout 'имя ветки' - перейти на ветку
-# git checkout -b new - создать ветку и сразу перейти на нее
-# git merge readme - обьединяем две ветки
-
-print("Hello, world!")
+print("Что-то сделала, не знаю,правильно или нет!! Сломала всю голову")
 
 
 
